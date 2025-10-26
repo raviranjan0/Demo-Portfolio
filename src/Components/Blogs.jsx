@@ -57,7 +57,7 @@ export default function BlogSection() {
               {/* Floating Arrow Button */}
               <button
                 className={`
-                  absolute -bottom-8 left-1/2 -translate-x-1/2 md:left-auto md:right-[-35px] md:translate-x-0
+                  absolute -bottom-1 -translate-x-1/2 md:left-auto md:right-[-5px] md:translate-x-0
                   w-16 h-16 rounded-full ${post.arrow}
                   flex items-center justify-center shadow-xl border-4 border-white
                   transition hover:scale-110
